@@ -1,0 +1,10 @@
+###1.编译版本设置
+![](https://i.imgur.com/pIsiaQK.png)
+###2.java运行环境设置
+![](https://i.imgur.com/grUvAbp.png)
+###3.字体设置
+![](https://i.imgur.com/Q94ERKE.png)
+###4.自动提示设置
+![](https://i.imgur.com/NaS6PpB.png)
+###4.设置字符编码
+![](https://i.imgur.com/wTtYetk.png)
